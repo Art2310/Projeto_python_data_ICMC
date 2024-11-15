@@ -6,5 +6,7 @@ Vale mencionar que parte do código e o dataset foram provisionados como materia
 Mais detalhes sobre o curso no canal: https://www.youtube.com/@DataICMC
 
 Algumas referências utilizadas fora o curso do ICMC:
+
 https://www.geeksforgeeks.org/comprehensive-guide-to-classification-models-in-scikit-learn/
+
 https://scikit-learn.org/dev/modules/generated/sklearn.model_selection.train_test_split.html
